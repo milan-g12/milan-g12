@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Milan Ličina, and this is my git repo for creative tech that I work for future media studio G12.
+- 👋 Hi, I’m Milan Ličina, and this is my git repo for creative tech that I develop with future media studio G12.
 - 👀 I’m interested in real-time graphics, tech and innovative ways to emerge users and visitors. 
 - 🌱 I’m currently learning AI integration for common tools I use.
 - 💞️ I’m looking to collaborate on unique projects that emphasize storytelling.
